@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨‍💻 I’m an independent developer
+- 🌱 I’m currently learning deno technology
+- 📫 How to reach me: delfws@qq.com
