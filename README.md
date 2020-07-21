@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 👨‍💻 I’m an independent developer
 - 🌱 I’m currently learning deno technology
 - 📫 How to reach me: delfws@qq.com
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=delfws&show_icons=true&theme=radical)
